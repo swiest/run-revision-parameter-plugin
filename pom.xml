@@ -9,7 +9,7 @@
 
   <groupId>de.simonwiest</groupId>
   <artifactId>run-revision-parameter-plugin</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <name>Run Revision Parameter Plugin</name>
@@ -35,7 +35,7 @@
     <connection>scm:git:ssh://github.com/swiest/run-revision-parameter-plugin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/swiest/run-revision-parameter-plugin.git</developerConnection>
     <url>https://github.com/swiest/run-revision-parameter-plugin</url>
-    <tag>run-revision-parameter-plugin-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
