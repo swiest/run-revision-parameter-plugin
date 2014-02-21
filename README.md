@@ -2,7 +2,7 @@ run-revision-parameter-plugin
 =============================
 
 This Jenkins plugin adds a new job parameter type 'Run Parameter, setting SCM revisions',
-allowing use the same SCM revision of a previous run in an arbitrary job in the current build.
+allowing to use the same SCM revision of a previous run in an arbitrary job in the current build.
 
 Currently, only Subversion and Git are supported as SCM types.
 
