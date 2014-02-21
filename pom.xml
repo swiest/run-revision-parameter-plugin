@@ -14,14 +14,10 @@
 
   <name>Run Revision Parameter Plugin</name>
   <description>
-        This Jenkins plugin adds a new job parameter type, allowing use the same SCM revision
-        of a previous run in an arbitrary job in the current build.
+        This Jenkins plugin adds a new job parameter type, allowing to reuse the SCM revisions
+        of a previous run of an arbitrary job in the current build.
     
         Currently, Subversion and Git are supported as SCM types.
-
-        Conceptually, this is the reverse of the options "Pass-through Git Commit that was built"
-        or "Subversion Revision" for the Parameterized Trigger plugin. Here, a job B looks up the
-        SCM revisions to be used from a specific build of job A.
   </description>
 
   <licenses>
